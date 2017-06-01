@@ -3,6 +3,16 @@ const Message = function (topic, payload = 'Default') {
   this.payload = payload;
 };
 
-var messageBus;
+const messageBus = function (topic, subscriber) {
+
+};
+
+messageBus.prototype.subscribe = function (topic, ) {
+
+};
+
+messageBus.prototype.publish = function (topic) {
+
+};
 
 module.exports.Message = Message;
