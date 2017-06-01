@@ -1,7 +1,7 @@
 [Message Bus Problem](https://gist.github.com/tim-hr/697af278700fcf12014eb36d932ad7c4)
 
 ## What to do
-- [ ] Set up unit testing
+- [x] Set up unit testing
 - [ ] Tests
 
 ## Constraints and factors to consider
